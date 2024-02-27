@@ -4,8 +4,8 @@
 
 <div align="center">
 <a href="https://github.com/Joao-Franca">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanOliveiraSilva&layout=compact&langs_count=7&theme=midnight-purple"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Franca&layout=compact&langs_count=7&hide=contribs,issues&theme=midnight-purple"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Franca&layout=compact&langs_count=7&theme=naval"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Franca&layout=compact&langs_count=7&hide=contribs,issues&theme=naval"/>
 
 </div>
 <br>
