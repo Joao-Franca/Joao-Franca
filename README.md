@@ -1,5 +1,4 @@
-# Olá, Me chamo João 👋
-### Seja muito bem vindo ao meu perfil do GitHub👋
+# Olá!! Me chamo João Pedro França, e sou estudante de Desenvolvimento de Sistemas no SENAI! 👋
 
 
 <div align="center">
