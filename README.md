@@ -1,4 +1,4 @@
-# Olá!! Me chamo João Pedro França, e sou estudante em Desenvolvimento de Sistemas no SENAI! 👋
+# Olá!! Me chamo João Pedro, e sou estudante em Desenvolvimento de Sistemas no SENAI! 👋
 
 
 <div align="center">
@@ -9,7 +9,7 @@
 </div>
 <br>
 <div class="contato" align="center">
-  <a href="https://br.linkedin.com/in/jo%C3%A3o-pedro-fran%C3%A7a-a43a632a5?trk=people-guest_people_search-card" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href=https://br.linkedin.com/in/jo%C3%A3o-pedro-ferreira-fran%C3%A7a-017a492b7?trk=people-guest_people_search-card target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://www.instagram.com/jaopedrofranca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
