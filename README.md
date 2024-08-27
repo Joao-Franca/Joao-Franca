@@ -3,8 +3,8 @@
 
 <div align="center">
 <a href="https://github.com/Joao-Franca">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Franca&layout=compact&langs_count=7&theme=Graywhite"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Franca&layout=compact&langs_count=7&hide=contribs,issues&theme=Graywhite"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Franca&layout=compact&langs_count=7&theme=Gradient"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Franca&layout=compact&langs_count=7&hide=contribs,issues&theme=Gradient"/>
 
 </div>
 <br>
