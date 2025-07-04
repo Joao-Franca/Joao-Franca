@@ -1,4 +1,4 @@
-# Olá!! Me chamo João Pedro, e sou Desenvolvedor Web e Mobile! 👋
+# Olá!! Me chamo João Pedro, e sou Desenvolvedor Web e Mobile! 
 
 
 <div align="center">
